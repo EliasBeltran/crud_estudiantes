@@ -1,0 +1,6 @@
+com\elias\estudiantes\repository\EstudianteRepository.class
+com\elias\estudiantes\entity\Estudiante.class
+com\elias\estudiantes\controller\EstudianteController.class
+com\elias\estudiantes\CrudEstudiantesApplication.class
+com\elias\estudiantes\service\EstudianteService.class
+com\elias\estudiantes\dto\EstudianteDTO.class
